@@ -1,0 +1,11 @@
+[Tue, 28 May 19 07:00:19 +0000][ERROR]  [404]: IndexController handler class cannot be loaded
+[Tue, 28 May 19 07:00:19 +0000][ERROR]  [404]: IndexController handler class cannot be loaded
+[Tue, 28 May 19 07:01:49 +0000][ERROR]  [404]: IndexController handler class cannot be loaded
+[Tue, 28 May 19 07:01:49 +0000][ERROR] View was not found in any of the views directory. Active render paths: [/Users/herigunawan/Documents/Project/phalcon-module-skeleton/app/modules/error/config/../views/index/show404.php]
+[Tue, 28 May 19 07:01:49 +0000][ERROR]  [404]: IndexController handler class cannot be loaded
+[Tue, 28 May 19 07:01:49 +0000][ERROR] View was not found in any of the views directory. Active render paths: [/Users/herigunawan/Documents/Project/phalcon-module-skeleton/app/modules/error/config/../views/index/show404.php]
+[Tue, 28 May 19 07:02:52 +0000][ERROR]  [404]: IndexController handler class cannot be loaded
+[Tue, 28 May 19 07:02:52 +0000][ERROR]  [404]: IndexController handler class cannot be loaded
+[Tue, 28 May 19 07:05:45 +0000][ERROR]  [404]: IndexController handler class cannot be loaded
+[Tue, 28 May 19 07:06:02 +0000][ERROR]  [404]: IndexController handler class cannot be loaded
+[Tue, 28 May 19 07:06:11 +0000][ERROR]  [404]: IndexController handler class cannot be loaded
